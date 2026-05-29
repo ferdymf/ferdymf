@@ -61,10 +61,13 @@ dari aplikasi web, tools desktop, hingga perangkat IoT.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ferdymf&show_icons=true&theme=default&hide_border=true" height="140" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdymf&layout=compact&theme=default&hide_border=true" height="140" />
-<br><br>
-<img src="https://streak-stats.demolab.com?user=ferdymf&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+![Statistik GitHub Ferdy](https://github-readme-stats.vercel.app/api?username=ferdymf&show_icons=true&theme=default&hide_border=true)
+
+![Bahasa Populer Ferdy](https://github-readme-stats.vercel.app/api/top-langs?username=ferdymf&layout=compact&theme=default&hide_border=true)
+
+<br>
+
+![](https://streak-stats.demolab.com?user=ferdymf&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
 </div>
 
