@@ -14,9 +14,9 @@ dari aplikasi web, tools desktop, hingga perangkat IoT.
 
 ## Tentang Saya
 
-- 🔭 Sedang mengembangkan **FetchDrop** — universal media downloader
-- 🌱 Saat ini belajar lebih dalam tentang **React** dan **IoT**
-- ⚡ Suka eksplorasi hal baru dari hardware sampai web
+- 🔭 Sedang mengembangkan **[FetchDrop](https://github.com/ferdymf/FetchDrop)** — universal media downloader dengan arsitektur yang bersih.
+- 🌱 Saat ini mendalami ekosistem **React**, **TypeScript**, dan integrasi **IoT**.
+- ⚡ Suka eksplorasi otomatisasi sistem, optimasi performa, dan interaksi hardware-software.
 
 ---
 
@@ -29,13 +29,15 @@ dari aplikasi web, tools desktop, hingga perangkat IoT.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frontend**
+**Frontend & Web**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Tools & Platform**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -44,14 +46,14 @@ dari aplikasi web, tools desktop, hingga perangkat IoT.
 
 ---
 
-## 📌 Proyek Unggulan
+## 📌 Proyek Utama
 
 | Proyek | Deskripsi | Stack |
 |--------|-----------|-------|
-| [⚡ FetchDrop](https://github.com/ferdymf/FetchDrop) | Universal media downloader dengan GUI modern | Python, CustomTkinter |
-| [📱 TikSave](https://github.com/ferdymf/Tiktok-Downloader) | TikTok downloader PWA tanpa watermark | React, Vite, Tailwind |
-| [🍽️ Restaurant POS](https://github.com/ferdymf/Restaurant-POS-System) | Aplikasi Point of Sale berbasis web | React, TypeScript |
-| [🌦️ IoT Weather Station](https://github.com/ferdymf/IoT-Code) | Stasiun cuaca pintar dengan OLED display | C++, ESP8266 |
+| [⚡ FetchDrop](https://github.com/ferdymf/FetchDrop) | Universal media downloader dengan GUI modern dan manajemen dependensi otomatis | Python, CustomTkinter |
+| [📱 TikSave](https://github.com/ferdymf/Tiktok-Downloader) | TikTok downloader PWA (Progressive Web App) tanpa watermark | React, Vite, Tailwind |
+| [🍽️ Restaurant POS](https://github.com/ferdymf/Restaurant-POS-System) | Aplikasi Point of Sale berbasis web untuk manajemen pesanan | React, TypeScript |
+| [🌦️ IoT Weather Station](https://github.com/ferdymf/IoT-Code) | Stasiun cuaca pintar dengan sensor dan OLED display | C++, Arduino |
 
 ---
 
@@ -59,9 +61,17 @@ dari aplikasi web, tools desktop, hingga perangkat IoT.
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=ferdymf&show_icons=true&theme=default&hide_border=true" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdymf&layout=compact&theme=default&hide_border=true" height="140" />
+<br><br>
 <img src="https://streak-stats.demolab.com?user=ferdymf&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 </div>
+
+---
+
+## 💬 Hubungi Saya
+- 🚀 Punya pertanyaan atau tertarik untuk berkolaborasi? Jangan ragu untuk membuka **Issues** atau memulai **Discussions** di repositori terkait!
 
 ---
 
