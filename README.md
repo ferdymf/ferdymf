@@ -57,24 +57,8 @@ dari aplikasi web, tools desktop, hingga perangkat IoT.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Statistik GitHub Ferdy](https://github-readme-stats.vercel.app/api?username=ferdymf&show_icons=true&theme=default&hide_border=true)
-
-![Bahasa Populer Ferdy](https://github-readme-stats.vercel.app/api/top-langs?username=ferdymf&layout=compact&theme=default&hide_border=true)
-
-<br>
-
-![](https://streak-stats.demolab.com?user=ferdymf&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
-
-</div>
-
----
-
 ## 💬 Hubungi Saya
-- 🚀 Punya pertanyaan atau tertarik untuk berkolaborasi? Jangan ragu untuk membuka **Issues** atau memulai **Discussions** di repositori terkait!
+- 🚀 Punya pertanyaan atau tertarik untuk berkolaborasi? Jangan ragu untuk membuka **Issues** or memulai **Discussions** di repositori terkait!
 
 ---
 
