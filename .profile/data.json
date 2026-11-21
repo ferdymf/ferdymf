@@ -1,0 +1,236 @@
+{
+ "key": "ab8d67de",
+ "stars": 0,
+ "contributions": 59,
+ "repos": 6,
+ "followers": 1,
+ "languages": [
+  [
+   "Python",
+   106080
+  ],
+  [
+   "HTML",
+   37155
+  ],
+  [
+   "TypeScript",
+   36542
+  ],
+  [
+   "C++",
+   14938
+  ],
+  [
+   "JavaScript",
+   7752
+  ],
+  [
+   "CSS",
+   1781
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 21,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 2
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "ferdymf",
+   "url": "https://github.com/ferdymf/ferdymf",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "FetchDrop",
+   "url": "https://github.com/ferdymf/FetchDrop",
+   "text": "Social Media Downloader",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "customtkinter",
+    "downloader",
+    "gui",
+    "python",
+    "yt-dlp"
+   ]
+  },
+  {
+   "name": "Tiktok-Downloader",
+   "url": "https://github.com/ferdymf/Tiktok-Downloader",
+   "text": "TikTok Video Downloader PWA — No Watermark",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "downloader",
+    "pwa",
+    "react",
+    "tiktok",
+    "vite"
+   ]
+  },
+  {
+   "name": "IoT-Code",
+   "url": "https://github.com/ferdymf/IoT-Code",
+   "text": "ESP8266 Smart Weather Station with OLED",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "arduino",
+    "esp8266",
+    "iot",
+    "oled",
+    "weather-station"
+   ]
+  },
+  {
+   "name": "Restaurant-POS-System",
+   "url": "https://github.com/ferdymf/Restaurant-POS-System",
+   "text": "Web-based POS App for Restaurant",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": [
+    "pos",
+    "react",
+    "tailwindcss",
+    "typescript",
+    "vite"
+   ]
+  },
+  {
+   "name": "Python",
+   "url": "https://github.com/ferdymf/Python",
+   "text": "Python Learning Projects & Mini Scripts",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "beginner",
+    "learning",
+    "mini-projects",
+    "python"
+   ]
+  }
+ ]
+}
